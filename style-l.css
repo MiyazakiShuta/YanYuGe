@@ -71,8 +71,8 @@ header {
 
 nav {
     float: right;
-    font-size: 15px;
-    font-family: 'Caveat', sans-serif;
+    font-size: 20px;
+    font-family: 'Ma Shan Zheng', cursive;
     padding-top: 30px;
 }
 
@@ -122,6 +122,10 @@ header {
 
 /* ### HEADERPOST LEAD###*/
 
+#headerpost {font-family: 'Ma Shan Zheng', cursive;}
+
+#headerpost p {font-size: 18px;}
+
 #headerpost #lead {
     float: left;
     width: 300px;
@@ -131,16 +135,19 @@ header {
 
 #headerpost h2 {
     margin: 20px 0;
+    font-size: 25px;
+    font-family: 'Ma Shan Zheng', cursive;
 }
 
 #headerpost h3 {
     margin: 20px 0;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Ma Shan Zheng', cursive;
 }
 
 #headerpost .more {
     font-size: 18px;
-    font-family: 'Caveat', sans-serif;
+    font-family: 'Ma Shan Zheng', cursive;
     text-align: right;
 }
 
@@ -175,6 +182,8 @@ header {
 
 /* ### POST 圖文 ###*/
 
+.post{font-family: 'Ma Shan Zheng', cursive;}
+
 .post img {
     width: 216px;
     height: auto;
@@ -183,12 +192,12 @@ header {
 }
 
 .post h2 {
-    font-size: 16px;
+    font-size: 18px;
     margin: 5px 0 0;
 }
 
 .post p {
-    font-size: 12px;
+    font-size: 14px;
     margin: 10px 0;
 }
 
@@ -201,7 +210,7 @@ header {
     float: right;
     color: #ffffff;
     font-size: 14px;
-    font-family: 'Caveat', sans-serif;
+    font-family: 'Ma Shan Zheng', cursive;
     background-color: #666666;
     background-image: url(img/more.png);
     background-size: 16px;
